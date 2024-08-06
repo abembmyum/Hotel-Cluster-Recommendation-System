@@ -1,1 +1,1 @@
-# Hotel-Recomendation
+# Hotel-Recommendation
